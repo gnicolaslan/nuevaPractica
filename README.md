@@ -1,3 +1,4 @@
-# Práctica de Git
+## Integrantes
 
-## Participantes: Gabriel Nicolás Lanzilloti y Nazarena Virginia Camarota
+# Nazarena Camarota
+# Gabriel Lanzillotti
