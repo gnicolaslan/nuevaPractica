@@ -1,0 +1,1 @@
+const coloresPimarios = { amarillo, rojo, azul }
