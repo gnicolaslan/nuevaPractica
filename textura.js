@@ -1,1 +1,1 @@
-const textura = [suave, áspero, liviana, uniforme];
+const textura = [suave, áspero, liviana, madera];
