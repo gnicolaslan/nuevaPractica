@@ -1,1 +1,1 @@
-const coloresPimarios = { amarillo, rojo, azul }
+const coloresPimarios = { amarillo, rojo, azul, violeta }
