@@ -1,0 +1,1 @@
+const material = [tela, cartón, papel];
